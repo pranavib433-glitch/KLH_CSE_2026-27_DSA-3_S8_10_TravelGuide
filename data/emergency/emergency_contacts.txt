@@ -1,1 +1,8 @@
+Emergency Contact Information
 
+Police: 112
+Ambulance: 108
+Fire: 101
+National Emergency Number: 112
+
+Note: These are general emergency contact numbers for India. Users should also check local emergency services at their destination.
