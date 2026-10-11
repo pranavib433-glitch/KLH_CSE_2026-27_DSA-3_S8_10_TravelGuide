@@ -1,1 +1,9 @@
-
+Destination: Delhi
+State: Delhi
+Speciality: Historical monuments and famous street food
+FamousPlaces: India Gate, Red Fort, Qutub Minar, Lotus Temple
+BestMonths: October to March
+Weather: Hot summers and cool winters
+Precautions: Stay hydrated, protect yourself from heat and keep belongings safe
+ThingsToCarry: Water Bottle, Sunglasses, ID Proof, Sunscreen, Power Bank
+Transportation: Metro, Bus, Cab and Auto
