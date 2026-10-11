@@ -1,1 +1,9 @@
-
+Destination: Kerala
+State: Kerala
+Speciality: Backwaters, beaches and greenery
+FamousPlaces: Munnar, Alleppey, Kochi, Wayanad
+BestMonths: September to March
+Weather: Tropical and humid with pleasant winter months
+Precautions: Carry rain protection and be careful near rivers, waterfalls and beaches
+ThingsToCarry: Umbrella, Raincoat, Comfortable Shoes, Mosquito Repellent
+Transportation: Bus, Cab, Auto and Taxi
