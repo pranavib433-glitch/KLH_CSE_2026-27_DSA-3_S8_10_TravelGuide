@@ -1,1 +1,8 @@
-
+PackageName: Budget
+Duration: 2 Days / 1 Night
+PricePerPerson: 4999
+Accommodation: Budget Hotel
+Transport: Local Transport
+Food: Not Included
+Inclusions: Sightseeing
+Description: Affordable travel package for budget-friendly travellers.
