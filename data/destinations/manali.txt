@@ -1,1 +1,9 @@
-
+Destination: Manali
+State: Himachal Pradesh
+Speciality: Snow mountains, valleys and adventure activities
+FamousPlaces: Solang Valley, Rohtang Pass, Hidimba Temple, Mall Road
+BestMonths: March to June and December to February
+Weather: Cold mountain climate; winters can be very cold
+Precautions: Carry warm clothes, check mountain weather and follow local safety instructions
+ThingsToCarry: Warm Clothes, ID Proof, Medicines, Gloves, Comfortable Shoes
+Transportation: Bus, Cab and Taxi
