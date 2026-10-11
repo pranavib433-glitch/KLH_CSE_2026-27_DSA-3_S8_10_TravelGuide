@@ -1,1 +1,8 @@
-
+PackageName: Premium
+Duration: 6 Days / 5 Nights
+PricePerPerson: 14999
+Accommodation: Premium Hotel
+Transport: Private Transport
+Food: Breakfast and Dinner
+Inclusions: Breakfast, Dinner, Sightseeing
+Description: Premium travel experience with comfortable accommodation and private transportation.
