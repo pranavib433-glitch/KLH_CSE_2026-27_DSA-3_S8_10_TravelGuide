@@ -1,0 +1,185 @@
+# 🌍 Travel Guide – Smart Travel Planning System
+
+## 📌 Project Description
+
+Travel Guide is a Java-based application developed to help users explore travel destinations and plan their trips easily. It allows users to search for destinations, view important travel information, select suitable travel packages, make demo payments, and generate booking quotations.
+
+The project demonstrates the application of Data Structures and Algorithms (DSA) concepts such as arrays, linear search, strings, and dynamic programming.
+
+## 🎯 Objectives
+
+- Provide an easy-to-use travel planning system.
+- Allow users to search for different destinations.
+- Correct destination spelling mistakes.
+- Display destination information and travel precautions.
+- Provide multiple travel package options.
+- Calculate package costs based on the number of persons.
+- Generate booking quotations and confirmation details.
+
+## ✨ Features
+
+### 1. Login System
+- Accepts username and password.
+- Allows login when both fields are non-empty.
+
+### 2. Destination Search
+- Search from the available destinations.
+- Uses linear search to identify destinations.
+- Displays destination details.
+
+### 3. Spelling Correction
+- Identifies incorrect destination spellings.
+- Uses Levenshtein Edit Distance.
+- Suggests the closest matching destination.
+
+### 4. Destination Information
+Provides information about:
+- Destination speciality
+- Famous tourist places
+- Best time to visit
+- Weather conditions
+- Travel precautions
+- Things to carry
+- Transportation facilities
+- Emergency contact numbers
+
+### 5. Travel Packages
+
+The application provides three package options:
+
+| Package | Duration | Price |
+|---|---|---:|
+| Budget | 2 Days / 1 Night | ₹4,999 |
+| Standard | 4 Days / 3 Nights | ₹8,999 |
+| Premium | 6 Days / 5 Nights | ₹14,999 |
+
+### 6. Payment System
+- UPI
+- Debit Card
+- Credit Card
+- Cash
+
+*Note: Payment is implemented for demonstration purposes only. No real financial transaction is performed.*
+
+### 7. Quotation Generation
+Generates a booking quotation containing:
+- Booking ID
+- Destination name
+- Selected package
+- Number of persons
+- Package amount
+- Service tax
+- Discount
+- Final payable amount
+- Payment method
+- Payment status
+- Booking status
+
+## 🧠 DSA Concepts Used
+
+| DSA Concept | Application |
+|---|---|
+| Arrays | Store destination and travel package information |
+| Linear Search | Search for destinations |
+| Strings | Process destination names and user input |
+| Dynamic Programming | Construct the Edit Distance table |
+| Levenshtein Edit Distance | Correct destination spelling mistakes |
+
+## 🛠️ Technologies Used
+
+- **Programming Language:** Java
+- **IDE:** Visual Studio Code
+- **JDK:** Java Development Kit
+- **Concepts:** Data Structures and Algorithms
+
+## 📂 Project Structure
+
+If your project is maintained as a single Java file:
+
+```text
+Travel-Guide/
+│
+├── TravelGuide.java
+├── README.md
+└── screenshots/
+    ├── login.png
+    ├── destination-search.png
+    ├── spelling-correction.png
+    ├── destination-details.png
+    ├── travel-packages.png
+    ├── payment.png
+    └── quotation.png
+```
+
+## ▶️ How to Run the Project
+
+### Prerequisites
+- Install Java JDK.
+- Install Visual Studio Code or use the Command Prompt.
+- Configure Java in your system.
+
+### Step 1: Clone the Repository
+
+```bash
+git clone YOUR_GITHUB_REPOSITORY_URL
+```
+
+### Step 2: Open the Project Folder
+
+```bash
+cd Travel-Guide
+```
+
+### Step 3: Compile the Java Program
+
+```bash
+javac TravelGuide.java
+```
+
+### Step 4: Run the Application
+
+```bash
+java TravelGuide
+```
+
+## 📸 Application Screenshots
+
+Add your actual application screenshots in this section.
+
+### 1. Login Page
+![Login](screenshots/login.png)
+
+### 2. Destination Search
+![Destination Search](screenshots/destination-search.png)
+
+### 3. Spelling Correction
+![Spelling Correction](screenshots/spelling-correction.png)
+
+### 4. Destination Details
+![Destination Details](screenshots/destination-details.png)
+
+### 5. Travel Packages
+![Travel Packages](screenshots/travel-packages.png)
+
+### 6. Payment
+![Payment](screenshots/payment.png)
+
+### 7. Booking Quotation
+![Quotation](screenshots/quotation.png)
+
+## 🚀 Future Enhancements
+
+- Integrate real-time weather information.
+- Add Google Maps integration for route planning.
+- Implement hotel and transport booking.
+- Integrate a secure payment gateway.
+- Add more destinations and travel packages.
+- Implement advanced DSA algorithms for itinerary optimization.
+
+## 🎓 Academic Details
+
+**Project Title:** Travel Guide  
+**Course:** Data Structures and Algorithms (DSA-3)  
+**Programming Language:** Java  
+**Project Type:** Academic Mini Project
+
