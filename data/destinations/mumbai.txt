@@ -1,1 +1,9 @@
-
+Destination: Mumbai
+State: Maharashtra
+Speciality: Gateway of India, Bollywood and Marine Drive
+FamousPlaces: Gateway of India, Marine Drive, Elephanta Caves, Juhu Beach
+BestMonths: November to February
+Weather: Warm and humid with pleasant winter months
+Precautions: Be careful in crowded areas and keep valuables secure
+ThingsToCarry: ID Proof, Power Bank, Comfortable Shoes, Small Backpack
+Transportation: Local Train, Metro, Bus and Cab
