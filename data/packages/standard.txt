@@ -1,1 +1,8 @@
-
+PackageName: Standard
+Duration: 4 Days / 3 Nights
+PricePerPerson: 8999
+Accommodation: 3-Star Hotel
+Transport: AC Transport
+Food: Breakfast
+Inclusions: Breakfast, Sightseeing
+Description: Comfortable travel package with accommodation and sightseeing.
