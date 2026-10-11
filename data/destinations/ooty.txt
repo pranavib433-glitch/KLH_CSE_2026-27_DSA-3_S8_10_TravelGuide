@@ -1,1 +1,9 @@
-
+Destination: Ooty
+State: Tamil Nadu
+Speciality: Tea gardens, hills and cool climate
+FamousPlaces: Ooty Lake, Botanical Garden, Doddabetta Peak, Tea Gardens
+BestMonths: October to June
+Weather: Cool and pleasant throughout most of the year
+Precautions: Carry warm clothes and comfortable shoes; be careful on hill roads
+ThingsToCarry: Warm Clothes, Umbrella, Comfortable Shoes, Camera
+Transportation: Bus, Cab and Taxi
