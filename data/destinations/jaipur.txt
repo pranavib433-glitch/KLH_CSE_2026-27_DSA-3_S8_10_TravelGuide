@@ -1,1 +1,9 @@
-
+Destination: Jaipur
+State: Rajasthan
+Speciality: Royal palaces, forts and Rajasthani culture
+FamousPlaces: Amber Fort, City Palace, Hawa Mahal, Jantar Mantar
+BestMonths: October to March
+Weather: Dry and warm summers with pleasant winters
+Precautions: Carry comfortable footwear and stay hydrated while visiting forts
+ThingsToCarry: Water Bottle, Comfortable Shoes, Sunglasses, ID Proof
+Transportation: Metro, Bus, Cab and Auto
