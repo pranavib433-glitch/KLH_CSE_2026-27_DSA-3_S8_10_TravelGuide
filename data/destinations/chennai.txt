@@ -1,1 +1,9 @@
-
+Destination: Chennai
+State: Tamil Nadu
+Speciality: Temples, beaches and South Indian culture
+FamousPlaces: Marina Beach, Kapaleeshwarar Temple, Fort St. George, Mahabalipuram
+BestMonths: November to February
+Weather: Warm and humid; cooler during winter
+Precautions: Carry water, use sunscreen and take care in crowded tourist places
+ThingsToCarry: Water Bottle, Sunscreen, ID Proof, Comfortable Clothes
+Transportation: Metro, Bus, Cab and Auto
