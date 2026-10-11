@@ -1,1 +1,10 @@
 
+Destination: Hyderabad
+State: Telangana
+Speciality: Charminar, Hyderabadi Biryani and Golconda Fort
+FamousPlaces: Charminar, Golconda Fort, Hussain Sagar, Salar Jung Museum
+BestMonths: October to February
+Weather: Pleasant winters and hot summers
+Precautions: Avoid extreme summer heat, stay hydrated and take care in crowded tourist areas
+ThingsToCarry: ID Proof, Water Bottle, Sunglasses, Power Bank, Comfortable Shoes
+Transportation: Metro, Bus, Cab and Auto
