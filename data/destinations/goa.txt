@@ -1,1 +1,9 @@
-
+Destination: Goa
+State: Goa
+Speciality: Beaches, water sports and nightlife
+FamousPlaces: Baga Beach, Calangute Beach, Fort Aguada, Dudhsagar Falls
+BestMonths: November to February
+Weather: Warm and pleasant with dry winter months
+Precautions: Follow beach safety rules, use sunscreen and avoid swimming in restricted areas
+ThingsToCarry: ID Proof, Sunscreen, Sunglasses, Beach Wear, Power Bank
+Transportation: Bus, Cab, Bike Rental and Taxi
